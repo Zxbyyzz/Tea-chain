@@ -1,2 +1,2 @@
 # Tea-chain
-Tea Chain
+Tea-chain
